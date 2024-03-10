@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I’m currently working on webgame(codenamesDuo)<br>I’m currently learning cyber security<br>All of my projects are available at https://leoteissier.fr<br>How to reach me leo.teissier.pro@gmail.fr
+I’m currently working on security software<br>I’m currently learning cyber security<br>All of my projects are available at https://leoteissier.fr<br>How to reach me leo.teissier.pro@gmail.com
 
 
 ## 🌐 Socials:
