@@ -14,6 +14,3 @@ I’m currently working on security software<br>I’m currently learning cyber s
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=leoteissier&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## Cyber Security
-<script src="https://tryhackme.com/badge/2327340"></script>
